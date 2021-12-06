@@ -7,7 +7,10 @@ Dewan Mohammad Tasinuzzaman ([@Dewan-Mohammad-Tasinuzzaman](https://github.com/D
 Sameer Khan ([@sameermkhan-creator](https://github.com/sameermkhan-creator))
 
 ## Introduction
-
+If you were bored during the pandemic in 2020, chances are you played "Among Us" with your friends.
+It's a simple multiplayer-based indie game where "crewmates" work together to find which players in the group
+are "imposters" before the imposters can kill them all. It's a game full of deception and reasoning, so
+understandably, every player plays the game with their own strategies. But which one is the best?
 
 ## Discussion
 

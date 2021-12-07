@@ -17,6 +17,20 @@ Is it smarter to focus on voting out imposters or go for a task win? Does comple
 ## Discussion
 
 ## Conclusion
+Limitations and future directions:     
+Certain other stats like, when someone dies, what map they played on, and where they died and records of chat messages from players would have been incredibly useful.
+
+Future: To get more data and record more types of info and do similar tests.
+
+Things we did not predict:  
+* We orginally thought more sabotage fixes would lead to more murder, but it was the opposite.
+
+What did we learn:
+*   By completing sabotages you are more likely to survive the duration of the game.
+*   Try to do the long tasks in the beginning of the game then the short ones torwards the end to have a better surivival rate.
+
+*   Ensure you have good teammates than can work together and be able to vote collectively to increase win rate.
+*   While only voting is a good way to win the game, still focus on your tasks as it is better chance for the long run to secure the win.
 
 ## Acknowledgements
 This project was submitted as the final course project for CSCI 2000U “Scientific 
